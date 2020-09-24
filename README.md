@@ -10,9 +10,9 @@ I'm a passionate backend developer from Germany, Berlin!
 
 - 🌱 I maintain two popular GithubActions, for [PHPStan](https://github.com/OskarStark/phpstan-ga) and [PHP-CS-Fixer](https://github.com/OskarStark/php-cs-fixer-ga)
 
-- 🤝 I’m a core-member of the awesome [Symfony team](https://github.com/symfony)
+- 🤝 I’m a core-member of the awesome [Symfony](https://github.com/symfony) team
 
-- 🤝 I’m a core-member of the awesome [Sonata-Project team](https://github.com/sonata-project)
+- 🤝 I’m a core-member of the awesome [Sonata-Project](https://github.com/sonata-project) team
 
 - 💬 Ask me about **Symfony, Sonata-Project & PHP**
 
