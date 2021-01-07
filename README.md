@@ -4,7 +4,7 @@
 
 I'm a passionate backend developer from Germany, Berlin!
 
-- 🔭 I’m currently working for [Gansel-Rechtsanwälte](https://github.com/gansel-rechtsanwaelte)
+- 🔭 I’m currently working for [Datana GmbH](https://github.com/datana-gmbh) and [Gansel-Rechtsanwälte](https://github.com/gansel-rechtsanwaelte)
 
 - 🌱 I would love to get help and support on [DOCtor-RST](https://github.com/OskarStark/doctor-rst)
 
