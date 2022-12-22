@@ -23,6 +23,6 @@ I'm a passionate backend developer from Germany, Berlin!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oskarstark&show_icons=true" alt="oskarstark" /></p>
 
 ### Contact
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/@oskarstark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@oskarstark" height="30" width="30" /></a>
 </p>
