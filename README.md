@@ -24,7 +24,7 @@ I'm a passionate backend developer from Germany, Berlin!
 * php
 * postgresql
 * rabbitmq
-* reds
+* redis
 * symfony
 
 ### Contact
