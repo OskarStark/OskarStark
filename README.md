@@ -36,6 +36,9 @@ final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterfac
         return true;
     }
     
+    /**
+     * @return array<string, string>
+     */
     public function getMaintainedGithubActions(): array
     {
         return [
