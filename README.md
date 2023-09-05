@@ -18,7 +18,7 @@ final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterfac
     public function __construct(
         private \DateTimeImmutable $birthDate = new \DateTimeImmutable('1985-02-20'),
         private string $email = 'oskarstark@googlemail.com',
-        private string $currentCompanies = [
+        private array $currentCompanies = [
             'Datana GmbH'          => 'CTO',        // https://datana.rocks
             'Gansel Rechtsanwälte' => 'Consultant', // https://gansel-rechtsanwaelte.de
         ],
