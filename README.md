@@ -4,6 +4,9 @@
 
 namespace App\Developer;
 
+/**
+ * @requires PHP 8.3
+ */
 #[AsHuman]
 final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterface
 {
