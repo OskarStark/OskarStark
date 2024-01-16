@@ -25,7 +25,7 @@ final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterfac
             'Datana GmbH'          => 'CTO',        // https://datana.rocks
             'Gansel Rechtsanwälte' => 'Consultant', // https://gansel-rechtsanwaelte.de
         ],
-        private string $currentCity = 'Berlin, Germany'
+        private string $currentCity = 'Berlin, Germany',
     ) {
     }
     
