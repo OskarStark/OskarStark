@@ -15,14 +15,14 @@ final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterfac
     use Twig;
     use Ops;
 
-    public const FIRST_NAME = 'Oskar';
-    public const LAST_NAME = 'Stark';
+    public const FIRSTNAME = 'Oskar';
+    public const LASTNAME = 'Stark';
     
     public function __construct(
-        private \DateTimeImmutable $birthDate = new \DateTimeImmutable('1985-02-20'),
-        private string $email = 'oskarstark@googlemail.com',
-        private string $company = 'SensioLabs Germany', // https://sensiolabs.com
-        private string $placeOfResidence = 'Berlin, Germany',
+        public \DateTimeImmutable $birthDate = new \DateTimeImmutable('1985-02-20'),
+        public string $email = 'oskarstark@googlemail.com',
+        public string $company = 'SensioLabs Germany', // https://sensiolabs.com
+        public string $placeOfResidence = 'Berlin, Germany',
     ) {
     }
     
