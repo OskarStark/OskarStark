@@ -2,13 +2,13 @@
 ```php
 <?php
 
-namespace App\Developer;
+namespace App\People;
 
 /**
  * @requires PHP 8.4
  */
 #[AsHuman]
-final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterface
+final class OskarStark extends SymfonyCoreDeveloper implements DeveloperInterface, ManagerInterface
 {
     use Symfony;
     use PostgreSQL;
